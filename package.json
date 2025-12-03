@@ -1,0 +1,34 @@
+{
+  "name": "sysx",
+  "version": "1.0.0",
+  "description": "A Node.js utility library to fetch system, CPU, RAM, disk, and network information including local and public IPs. Fully TypeScript-ready.",
+  "keywords": [
+    "system",
+    "network",
+    "cpu",
+    "ram",
+    "disk",
+    "ip",
+    "mac",
+    "typescript",
+    "os",
+    "utility"
+  ],
+  "author": "black.cpp",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adhammenesy/sysx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adhammenesy/sysx/issues"
+  },
+  "homepage": "https://github.com/adhammenesy/sysx#readme",
+  "files": [
+    "libs",
+    "tscofig.json",
+    "license",
+    "readme.md"
+  ]
+}
